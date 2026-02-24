@@ -87,7 +87,6 @@ Final result:
 ```
 120
 ```
-
 ---
 
 ## 🔑 Key Concepts Demonstrated
