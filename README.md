@@ -136,3 +136,6 @@ After understanding this program, you should know:
 ---
 
 👨‍💻 Created for Python recursion practice.
+
+
+<img width="561" height="640" alt="image" src="https://github.com/user-attachments/assets/aa81976f-1e5b-4a1c-9e0a-46e4be73d55d" />
