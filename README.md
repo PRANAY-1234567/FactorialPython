@@ -3,15 +3,11 @@
 ## 📌 Overview
 
 This Python program calculates the **factorial** of a number using **recursion**.
-
 Factorial of a number `n` (written as `n!`) is:
-
 [
 n! = n × (n-1) × (n-2) × ... × 1
 ]
-
 Example:
-
 ```
 5! = 5 × 4 × 3 × 2 × 1 = 120
 ```
